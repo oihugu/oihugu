@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oihugu&layout=tokyonight)](https://github.com/oihugu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oihugu&theme=tokyonight)](https://github.com/oihugu/)
 <!--
 **oihugu/oihugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
